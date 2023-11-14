@@ -117,8 +117,7 @@ JOIN covidvaccinations vac
 	AND dea.iso_code = vac.iso_code
 WHERE dea.location is 'Albania'
 
-SELECT *, (CAST(rollingpeoplevaccinated as float)/population)*100
-FROM Percentagepeoplevaccinated
+
 
 
 
