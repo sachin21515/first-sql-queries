@@ -1,4 +1,4 @@
-how to load data into mysql workbench
+
 
 LOAD DATA LOCAL INFILE '/Users/sachinsachin/Downloads/covidData.csv'
 INTO TABLE jko.ttable
